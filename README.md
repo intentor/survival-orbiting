@@ -2,7 +2,8 @@
 
 Space puzzle game created for Global Game Jam 2015.
 
-GGJ#15 site: [http://globalgamejam.org/2015/games/survival-orbiting](http://globalgamejam.org/2015/games/survival-orbiting)
+GGJ#15 game page: [http://globalgamejam.org/2015/games/survival-orbiting](http://globalgamejam.org/2015/games/survival-orbiting)
+
 Game Website: [http://survivalorbiting.trixter.com.br/](http://survivalorbiting.trixter.com.br/)
 
 ## Story
@@ -11,19 +12,25 @@ In the near future, Earth is an arid uninhabitable place. Facing greater hurry b
 
 ## Technology Notes
 
-Made with Unity 3D 4.6.1f1; some space art from [SPACE for Unity – Space Scene Construction Kit for Unity3D](http://u3d.as/content/imphenzia/space-for-unity-space-scene-construction-kit/4aY).
+Made with Unity 3D 4.6.1f1.
+
+Some space art from [SPACE for Unity – Space Scene Construction Kit for Unity3D](http://u3d.as/content/imphenzia/space-for-unity-space-scene-construction-kit/4aY).
 
 ## Credits
 
 **Art and Game Design**
+
 [Alvaro "Zumba" Gabriele](https://www.facebook.com/alvaro.gabriele)
 
 **Programming, Music and (the few) Sound Effects**
+
 [André "Intentor" Martins](http://intentor.com.br/)
 
 **Thanks to**
 Sabrina Nascimento for additional testing, moral support and beyond
+
 Faimah Lis for her patience for the almost 48 hours without Zumba
+
 "General" for supporting us when the fuel was low (very very low!)
 
 ## License
