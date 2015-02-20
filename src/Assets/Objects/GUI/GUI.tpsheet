@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: GUI.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:5db17f011ef725c766444447c2970bec:7033c780dd2f8a5e98ce67a1c8a37ff5:a5be5e0c8a9082c6c55ce2aec385755a$
+#
+
+help_screen;2;680;1366;1366;0.5;0.5
+icon_fuel;1987;1388;56;85;0.5;0.5
+icon_hull;1923;1387;62;86;0.5;0.5
+icon_time;1835;1387;86;86;0.5;0.5
+spaceship;1370;1475;658;279;0.5;0.5
+speed_effect;1370;1756;658;290;0.5;0.5
+water;1370;700;463;773;0.5;0.5

@@ -1,0 +1,5 @@
+Adic - Lightweight Dependency Injection Container (version 2)
+https://github.com/intentor/adic
+
+SPACE for Unity – Space Scene Construction Kit for Unity3D
+https://www.assetstore.unity3d.com/en/#!/content/7095
