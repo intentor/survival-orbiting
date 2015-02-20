@@ -29,6 +29,7 @@ Some space art from [SPACE for Unity – Space Scene Construction Kit for Unity3
 [André "Intentor" Martins](http://intentor.com.br/)
 
 **Thanks to**
+
 Sabrina Nascimento for additional testing, moral support and beyond
 
 Faimah Lis for her patience for the almost 48 hours without Zumba
