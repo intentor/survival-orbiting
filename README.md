@@ -6,7 +6,9 @@ Space puzzle game created for Global Game Jam 2015.
 
 GGJ#15 game page: [http://globalgamejam.org/2015/games/survival-orbiting](http://globalgamejam.org/2015/games/survival-orbiting)
 
-Game Website: [http://survivalorbiting.trixter.com.br/](http://survivalorbiting.trixter.com.br/)
+Game Website: [http://survivalorbiting.trixter.com.br/](http://survivalorbiting.trixter.com.br/) (can be played online)
+
+Executables for the game can be downloaded [here (Mac OS X only)]().
 
 ## Story
 
