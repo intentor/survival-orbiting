@@ -2,6 +2,8 @@
 
 Space puzzle game created for Global Game Jam 2015.
 
+![screenshot00](https://cloud.githubusercontent.com/assets/5340818/6307462/274d0078-b923-11e4-8b0b-cb976a70fda6.png) ![screenshot01](https://cloud.githubusercontent.com/assets/5340818/6307464/286d8838-b923-11e4-850b-e86139caf6b5.png) ![screenshot02](https://cloud.githubusercontent.com/assets/5340818/6307465/29a58822-b923-11e4-921c-13e0d9c53313.png)
+
 GGJ#15 game page: [http://globalgamejam.org/2015/games/survival-orbiting](http://globalgamejam.org/2015/games/survival-orbiting)
 
 Game Website: [http://survivalorbiting.trixter.com.br/](http://survivalorbiting.trixter.com.br/)
