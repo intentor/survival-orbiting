@@ -8,8 +8,6 @@ GGJ#15 game page: [http://globalgamejam.org/2015/games/survival-orbiting](http:/
 
 Game Website: [http://survivalorbiting.trixter.com.br/](http://survivalorbiting.trixter.com.br/) (can be played online)
 
-Executables for the game can be downloaded [here (Mac OS X only)]().
-
 ## Story
 
 In the near future, Earth is an arid uninhabitable place. Facing greater hurry by the lack of resources and space technology, humanity had to answer the question they were ignoring for ages: WHAT DO WE DO NOW? Without many options, probes were sent to space looking for water - and so potential planets that could sustain life. Provided with intel from the probes, space missions now traverse the galaxy. However, with small amounts of fuel, slingshots through orbits are our only way to reach the farthest distances of the universe before we ran out of fuel, and hope.
